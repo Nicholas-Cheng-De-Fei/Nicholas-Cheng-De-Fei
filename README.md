@@ -19,7 +19,17 @@ Some hobbies I enjoy are playing badminton, bowling as well as learning how to c
 
 ## Learn More About Me
 ---
-<a href = "www.linkedin.com/in/nicholas-cheng-">
-  <t>Hello</t>
-</a>
+You can learn more about me from these other websites:
+<div>
+  <div>
+    <a href="https://www.linkedin.com/in/nicholas-cheng-">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkedin">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/Nicholas-Cheng-De-Fei">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github">
+    </a>
+  </div>
+</div>
 
